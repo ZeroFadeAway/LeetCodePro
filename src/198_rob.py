@@ -20,12 +20,16 @@ class Solution:
 
 def main():
     # input
-    nums = [2, 7, 9, 3, 1]
-    # solution
-    s = Solution()
-    ret = s.rob(nums)
-    # out
-    print("ret:", ret)
+    # nums = [2, 7, 9, 3, 1]
+    # # solution
+    # s = Solution()
+    # ret = s.rob(nums)
+    # # out
+    # print("ret:", ret)
+    import math
+
+    print(math.ceil(2.1))
+
 
 
 if __name__ == "__main__":
